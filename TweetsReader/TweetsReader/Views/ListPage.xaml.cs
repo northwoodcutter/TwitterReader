@@ -40,5 +40,12 @@ namespace TweetsReader.Views
             App.Current.MainPage = new DetailPage(selectedTweet);
           
         }
+
+        private void SearchBar_OnTextChanged(object sender, TextChangedEventArgs e)
+        {
+            TweetsListView.BeginRefresh();
+            TweetsListView.ItemsSource = tweetVM.Tweets.FindAll(i => i.Text.Contains(e.NewTextValue));
+            TweetsListView.EndRefresh();
+        }
     }
 }

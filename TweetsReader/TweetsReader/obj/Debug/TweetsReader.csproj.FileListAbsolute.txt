@@ -43,11 +43,6 @@ C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.Views.StartPage.xaml.g.cs
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.pdb
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll.mdb
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\TweetsReader.dll.mdb
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll.mdb
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\TweetsReader.dll.mdb
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll.mdb
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\TweetsReader.dll.mdb
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.csprojResolveAssemblyReference.cache
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll.mdb
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\TweetsReader.dll.mdb
