@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using TweetsReader.Helpers;
 using TweetsReader.Models;
 using TweetsReader.Views;
 using Xamarin.Auth;
@@ -34,7 +35,7 @@ namespace TweetsReader.iOS
                 {
                     Account account = eventArgs.Account;
                     IDictionary<string, string> userParams = new Dictionary<string, string>();
-                    userParams.Add("screen_name", "brodsky_joseph");
+                    userParams.Add("screen_name", Settings.SettingsAuthorName);
                     var request = new OAuth1Request("GET",
                         new Uri("https://api.twitter.com/1.1/statuses/user_timeline.json"), userParams, account, false);
                     var response = await request.GetResponseAsync();

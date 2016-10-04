@@ -8,6 +8,8 @@ C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\androi
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\PInvoke.Kernel32.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\PInvoke.NCrypt.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\PInvoke.Windows.Core.dll
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\Plugin.Settings.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Net.Http.Extensions.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Net.Http.Primitives.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Reactive.Core.dll
@@ -67,9 +69,9 @@ C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\androi
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\Mono.CSharp.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Numerics.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Net.Primitives.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.ComponentModel.dll
-C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll

@@ -18,6 +18,9 @@ namespace TweetsReader.Views
             InitializeComponent();
             this.tweets = tweets;
             tweetVM = new TweetViewModel();
+            ToolbarItems.Add(new ToolbarItem("Click", null, () => {
+               
+            }));
         }
 
         protected override async void OnAppearing()

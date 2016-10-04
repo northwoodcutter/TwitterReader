@@ -60,7 +60,12 @@ C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\res\dr
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\R.cs.flag
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\uploadflags.txt
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Plugin.Settings.dll
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Plugin.Settings.xml
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Plugin.Settings.Abstractions.xml
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\TweetsReader.Droid.dll.mdb
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\res\drawable\settings.png
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\bin\Debug\Mono.Android.dll.mdb
