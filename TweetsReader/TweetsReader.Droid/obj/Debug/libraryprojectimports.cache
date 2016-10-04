@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\ModernHttpClient\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\PCLCrypto\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Auth\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\ModernHttpClient\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\PCLCrypto\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Auth\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\ModernHttpClient.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\PCLCrypto.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Auth.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
