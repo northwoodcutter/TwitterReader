@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
+using TweetsReader.Models;
 using TweetsReader.Views;
 using Xamarin.Auth;
 using Xamarin.Forms;
@@ -43,7 +45,6 @@ namespace TweetsReader.iOS
                 else
                 {
                     App.Current.MainPage = new ErrorLogin();
-                    VerifyTwitterAppHelper.Token = "";
 
                 }
             };
