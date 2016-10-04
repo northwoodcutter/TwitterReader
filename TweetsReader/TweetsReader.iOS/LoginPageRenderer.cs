@@ -26,7 +26,7 @@ namespace TweetsReader.iOS
                 requestTokenUrl: new Uri("https://api.twitter.com/oauth/request_token"),
                 authorizeUrl: new Uri("https://api.twitter.com/oauth/authorize"),
                 accessTokenUrl: new Uri("https://api.twitter.com/oauth/access_token"),
-                callbackUrl: new Uri("https://apps.twitter.com/app/new"));
+                callbackUrl: new Uri("https://apps.twitter.com/"));
 
             auth.Completed += async (sender, eventArgs) =>
             {
