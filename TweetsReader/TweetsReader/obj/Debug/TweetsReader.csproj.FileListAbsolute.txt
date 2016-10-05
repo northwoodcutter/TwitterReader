@@ -48,5 +48,8 @@ C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\Plugin.Setti
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\Plugin.Settings.dll
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\Plugin.Settings.xml
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.Views.SettingsPage.xaml.g.cs
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll.mdb
+C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\TweetsReader.dll.mdb
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\obj\Debug\TweetsReader.dll.mdb
 C:\XamarinProjects\TweetsReader\TweetsReader\TweetsReader\bin\Debug\TweetsReader.dll.mdb

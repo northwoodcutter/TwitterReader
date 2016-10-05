@@ -12,15 +12,12 @@ namespace TweetsReader.Views
         readonly TweetViewModel tweetVM;
 
         List<Tweet> tweets;
-
+       
         public ListPage(List<Tweet> tweets)
         {
             InitializeComponent();
             this.tweets = tweets;
             tweetVM = new TweetViewModel();
-            ToolbarItems.Add(new ToolbarItem("Click", null, () => {
-               
-            }));
         }
 
         protected override async void OnAppearing()
@@ -49,6 +46,11 @@ namespace TweetsReader.Views
             TweetsListView.BeginRefresh();
             TweetsListView.ItemsSource = tweetVM.Tweets.FindAll(i => i.Text.Contains(e.NewTextValue));
             TweetsListView.EndRefresh();
+        }
+
+        private void Settings_Clicked(object sender, EventArgs e)
+        {
+            App.Current.MainPage = new SettingsPage();
         }
     }
 }

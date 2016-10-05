@@ -5,6 +5,7 @@ using Xamarin.Forms;
 using Xamarin.Auth;
 using TweetsReader.Views;
 using System.Collections.Generic;
+using TweetsReader.Helpers;
 using TweetsReader.Models;
 using Newtonsoft.Json;
 
@@ -47,13 +48,13 @@ namespace TweetsReader.Droid
                 {
                     Account account = eventArgs.Account;
                     IDictionary<string, string> userParams = new Dictionary<string, string>();
-                    userParams.Add("screen_name", "brodsky_joseph");
+                    userParams.Add("screen_name", Settings.SettingsAuthorName);
                     var request = new OAuth1Request("GET",
                         new Uri("https://api.twitter.com/1.1/statuses/user_timeline.json"), userParams, account, false);
                     var response = await request.GetResponseAsync();
                     var tweetsUser = await response.GetResponseTextAsync();
                     List<Tweet> twitts = JsonConvert.DeserializeObject<List<Tweet>>(tweetsUser);
-                    App.Current.MainPage = new ListPage(twitts);
+                    App.Current.MainPage = new NavigationPage(new ListPage(twitts));
                 }
                 else
                 {

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TweetsReader.Views.SettingsPage">
+    <StackLayout>
+    <Label Text="Please enter the name of the author tweets" VerticalOptions="Center" HorizontalOptions="Center" />
+    <Entry x:Name="AuthorEntry"/>
+    <Button Clicked="Button_Clicked" Text="Save"/>
+    </StackLayout>    
+</ContentPage>
